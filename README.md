@@ -21,4 +21,4 @@ The system uses a relational database structure from an SQL initialization scrip
 ## How to Run
 1. Have **Python 3** and **Flask** installed
 2. Include a secret key in a local key.txt file (*excluded from version control*)
-3. Run app.py (*the system will automatically initialize the database using the provided .sql schema on the first launch*)
+3. Run app2.py (*the system will automatically initialize the database using the provided .sql schema on the first launch*)
